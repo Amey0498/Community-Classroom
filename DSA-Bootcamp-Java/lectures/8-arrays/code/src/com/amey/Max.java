@@ -1,5 +1,8 @@
 package com.amey;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class Max {
     public static void main(String[] args) {
         int[] arr = {1, 23,49, 22, 18};
